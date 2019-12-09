@@ -2,6 +2,7 @@
   "name": "node-dcraw",
   "description": "Dave Coffin's popular dcraw library callable from JavaScript.",
   "main": "./lib/index.js",
+  "version": "0.0.1",
   "bin": {
     "node-dcraw": "./bin/dcraw.js"
   },
